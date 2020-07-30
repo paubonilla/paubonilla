@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello world, I'm Paulo 👋
 
-<!--
-**paubonilla/paubonilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏠 I'm currently living in LA 
+- 🌱 I’m { currently === learning ? ( [Typescript](https://www.typescriptlang.org/) : how to learn )}
+- 💬 Ask me about ...anything
+- 📫 How to reach me: Feel free to go to my [Instagram](https://www.instagram.com/impaubonilla/) account, I have [Twitter](https://twitter.com/pxixcv) as well, but I don't tweet frequently and yes, I have [Facebook](https://www.facebook.com/pxixcv) and  [YouTube Channel](https://www.youtube.com/channel/UCOzqf6znGEBswEYLu0exL-A?view_as=subscriber), too! Or just simply leave an [email](mailto:paulo111995@gmail.com).
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: 
+    <br />  I love to draw :pencil2:, 
+    <br />  play video games 🎮, 
+    <br />  watch anime 💻 && movies 📺, 
+    <br />  photography 📷 && videography 📹
