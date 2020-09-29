@@ -1,5 +1,6 @@
 ### Hello world, I'm Paulo 👋
 
+- 🇵🇭 I'm Filipino
 - 🏠 I'm currently living in LA 
 - 🌱 I’m { currently === learning ? ( [Typescript](https://www.typescriptlang.org/) : how to learn )}
 - 💬 Ask me about ...anything
