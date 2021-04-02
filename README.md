@@ -1,5 +1,7 @@
 ### Hello world, I'm Paulo 👋
 
+- :anchor: A future sailor 
+
 - 🇵🇭 I'm Filipino
 - 🏠 I'm currently living in LA 
 - 🌱 I’m { currently === learning ? ( [Typescript](https://www.typescriptlang.org/) : how to learn )}
