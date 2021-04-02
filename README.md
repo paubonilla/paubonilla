@@ -1,6 +1,5 @@
 ### Hello world, I'm Paulo 👋
 
-- :anchor: A future sailor 
 
 - 🇵🇭 I'm Filipino
 - 🏠 I'm currently living in LA 
@@ -14,3 +13,4 @@
     <br />  play video games 🎮, 
     <br />  watch anime 💻 && movies 📺, 
     <br />  photography 📷 && videography 📹
+    <br />  ⚓ A future sailor
